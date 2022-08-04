@@ -1,0 +1,5 @@
+name: Pull Request Milestone
+description: Congratulate people when they hit a certain number of merged pull requests
+runs:
+  using: docker
+  image: Dockerfile
